@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: IMG_E3846.JPG
             filters:
               brightness: 0.7
           position: right
